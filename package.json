@@ -1,0 +1,26 @@
+{
+  "name": "taylorsturtz",
+  "email": "taylorsturtz@gmail.com",
+  "version": "2.0.0",
+  "description": "My CLI biz card",
+  "main": "index.js",
+  "bin": "./cli.js",
+  "keywords": [
+    "taylor sturtz",
+    "sturtz",
+    "developer",
+    "web",
+    "software",
+    "javascript",
+    "programmer",
+    "coder",
+    "ui",
+    "front-end"
+  ],
+  "author": "Taylor Sturtz",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.3.1",
+    "prettyjson": "^1.2.1"
+  }
+}
