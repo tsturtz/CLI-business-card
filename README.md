@@ -1,5 +1,11 @@
-# CLI-business-card
+# CLI-business-card :wave:
 
-Install node, npm, and npx (`npm install -g npx`)
+Install node, npm, and npx
+```console
+npm install -g npx
+```
 
-then run `npx taylorsturtz` :wave:
+then run
+```console
+npx taylorsturtz
+```
