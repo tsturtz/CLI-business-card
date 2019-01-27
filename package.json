@@ -1,5 +1,5 @@
 {
-  "version": "2.0.4",
+  "version": "2.0.5",
   "name": "taylorsturtz",
   "email": "taylorsturtz@gmail.com",
   "description": "My CLI biz card",
@@ -21,7 +21,7 @@
   "author": "Taylor Sturtz",
   "license": "ISC",
   "dependencies": {
-    "cowsay": "^1.3.1",
+    "cowsay": "^1.4.0",
     "prettyjson": "^1.2.1"
   }
 }
